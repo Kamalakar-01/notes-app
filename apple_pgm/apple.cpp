@@ -52,6 +52,6 @@ int main()
     {
         cout<<"Box "<<i+1<<":"<<result[i]<<endl;
     }
-
+    cout<<"Added new feature"<<endl;
     return 0;
 }
