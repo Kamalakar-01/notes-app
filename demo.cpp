@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from feature branch!" << endl;
-    cout << "Added new feature 🚀" << endl;
+    cout << "Edited from vscode!" << endl;
     return 0;
 }
