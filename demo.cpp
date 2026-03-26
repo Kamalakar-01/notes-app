@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from main branch!" << endl;
+    cout << "Hello from feature branch!" << endl;
+    cout << "Added new feature 🚀" << endl;
     return 0;
 }
